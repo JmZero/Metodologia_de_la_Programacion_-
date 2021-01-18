@@ -1,2 +1,7 @@
-# Metodologia_de_la_Programacion_-
-Prácticas de la asignatura de Metodología de la Programación - Grado Ingeniería Informática 2015/2016
+# Metodologia de la Programacion
+
+### Jesús Miguel Jaldo Ruiz
+
+Prácticas de la asignatura de Metodología de la Programación (MP)
+
+Grado Ingeniería Informática 2015/2016
